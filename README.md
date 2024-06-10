@@ -12,7 +12,7 @@
   <img align="right" alt="GIF" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif" width="450px"/>
 </div>
 
-<p align="center">Atualmente sou estudante de Engenharia de Software pela instituição Unicesumar (1/8)</p>
+<p align="center">Atualmente sou estudante de Engenharia de Software pela instituição Unicesumar (2/8)</p>
 
 <p align="center">Conecte-se comigo</p>
 <p align="center">
