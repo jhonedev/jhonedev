@@ -8,11 +8,9 @@
   📫 Email: <a href="mailto:jonatan.borges2012@hotmail.com">jonatan.borges2012@hotmail.com</a>
 </p>
 
-<div>
-  <img align="right" alt="GIF" src="https://1099028l.ha.azioncdn.net/image/manutencao/manutencao.gif" width="450px"/>
-</div>
-
-<p align="center">Atualmente sou estudante de Engenharia de Software pela instituição Unicesumar (2/8)</p>
+<p align="center">
+  🚀 **Estudante de Engenharia de Software na Unicesumar** (2/8) | 📚 Aprendendo e aplicando conceitos de programação em projetos práticos.
+</p>
 
 <p align="center">Conecte-se comigo</p>
 <p align="center">
@@ -24,13 +22,15 @@
   </a>
 </p>
 
-<p align="center">Tecnologias dominantes</p>
+---
+
+### 🔧 Tecnologias Dominantes
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </p>
 
-<p align="center">Tecnologias em aprendizagem</p>
+### 📚 Tecnologias em Aprendizagem
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
@@ -39,8 +39,9 @@
   <img src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E" alt="SQLite">
 </p>
 
-<p align="center">GitHub Stats</p>
+---
 
+### 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jhonedev&show_icons=true&theme=dracula&bg_color=000&title_color=30A3DC&text_color=FFF" alt="GitHub Readme Stats">
@@ -54,4 +55,18 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonedev&layout=compact&theme=dracula&bg_color=000&title_color=30A3DC&text_color=FFF" alt="Top Langs">
   </a>
+</p>
+
+---
+
+### 💼 Objetivos Profissionais
+Atualmente, busco oportunidades que me permitam aplicar meus conhecimentos em Java e Python em projetos desafiadores, além de continuar meu desenvolvimento profissional na área de engenharia de software. Estou aberto a colaborações e novas experiências que possam enriquecer minha jornada.
+
+---
+
+### 🌱 Vamos nos conectar?
+Se você é um recrutador ou um profissional da área e deseja trocar ideias, fique à vontade para entrar em contato! Estou sempre em busca de aprender e crescer.
+
+<p align="center">
+  📫 Email: <a href="mailto:jonatan.borges2012@hotmail.com">jonatan.borges2012@hotmail.com</a>
 </p>
