@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🚀 <strong>Estudante de Engenharia de Software na Unicesumar</strong> | 💻 <strong>Focado em desenvolvimento de software e tecnologias modernas</strong>.
+  <strong>Estudante de Engenharia de Software na Unicesumar</strong>
 </p>
 
 <p align="center">Conecte-se comigo</p>
