@@ -48,9 +48,6 @@
   <a href="https://www.instagram.com/_baruc96/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="jonatan.borges2012@hotmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ###
@@ -59,6 +56,6 @@
 
 ###
 
-<p align="left">Se você é um profissional da área e gostaria de trocar ideias, ficarei feliz em me conectar! Estou sempre buscando aprender e explorar novos caminhos na área de tecnologia.</p>
+<p align="left">Se você é um profissional da área e gostaria de trocar ideias, ficarei feliz em me conectar! Estou sempre buscando aprender e explorar novos caminhos na área de tecnologia.<br><br>Email: jonatan.borges2012@hotmail.com</p>
 
 ###
