@@ -35,7 +35,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jonathanborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanborges&layout=compact&langs_count=5&theme=tokyonight&locale=pt-br" height="150" alt="Top Languages" />
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanborges&theme=tokyonight&locale=pt-br" height="150" alt="GitHub Streak" />
+  
 </div>
 
 ---
