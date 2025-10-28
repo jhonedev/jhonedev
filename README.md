@@ -1,19 +1,15 @@
-<h2 align="left">Sobre Mim</h2>
-
-###
+<h2 align="left">👨‍💻 Sobre Mim</h2>
 
 <p align="left">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas na UNIFOR<br>
-💻 Apaixonado por programação e tecnologia<br>
-📚 Explorando HTML, CSS, JavaScript, Node.js, Python e Django<br>
-🚀 Em transição de carreira para o desenvolvimento de software
+🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na UNIFOR<br>
+💻 Apaixonado por <strong>programação e tecnologia</strong><br>
+📚 Explorando <strong>HTML, CSS, JavaScript, Node.js, Python e Django</strong><br>
+🚀 Em transição de carreira para o <strong>desenvolvimento web</strong>
 </p>
 
-###
+---
 
-<h2 align="left">Tecnologias</h2>
-
-###
+<h2 align="left">🛠️ Tecnologias</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
@@ -31,22 +27,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
 </div>
 
-###
+---
 
-<h2 align="left">Estatísticas</h2>
-
-###
+<h2 align="left">📊 Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonedev&show_icons=true&theme=gruvbox_light&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonedev&layout=compact&langs_count=5&theme=gruvbox_light&locale=pt-br" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonathanborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanborges&layout=compact&langs_count=5&theme=tokyonight&locale=pt-br" height="150" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonathanborges&theme=tokyonight&locale=pt-br" height="150" alt="GitHub Streak" />
 </div>
 
-###
+---
 
-<h2 align="left">Redes Sociais</h2>
-
-###
+<h2 align="left">🌐 Redes Sociais</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/jhonedev/" target="_blank">
@@ -57,13 +51,11 @@
   </a>
 </div>
 
-###
+---
 
-<h2 align="left">Vamos nos conectar?</h2>
-
-###
+<h2 align="left">🤝 Vamos nos conectar?</h2>
 
 <p align="left">
-Se você é um profissional da área e gostaria de trocar ideias, ficarei feliz em me conectar! Estou sempre em busca de aprender e explorar novos caminhos na tecnologia.<br><br>
+Se você também é apaixonado por tecnologia, ficarei feliz em trocar ideias e experiências! Estou sempre em busca de aprender e explorar novos caminhos.<br><br>
 📧 <strong>Email:</strong> jonatan.borges2012@hotmail.com
 </p>
