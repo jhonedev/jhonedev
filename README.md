@@ -1,3 +1,5 @@
+<h1 align="center">👋 Olá, eu sou o Jonathan Borges!</h1>
+
 <h2 align="left">👨‍💻 Sobre Mim</h2>
 
 <p align="left">
@@ -9,9 +11,9 @@
 
 ---
 
-<h2 align="left">🛠️ Tecnologias</h2>
+<h2 align="center">🛠️ Tecnologias</h2>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS logo" />
@@ -29,20 +31,18 @@
 
 ---
 
-<h2 align="left">📊 Estatísticas</h2>
+<h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonathanborges&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanborges&layout=compact&langs_count=5&theme=tokyonight&locale=pt-br" height="150" alt="Top Languages" />
-  <br><br>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonedev&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" height="150" alt="Top Languages" />
 </div>
 
 ---
 
-<h2 align="left">🌐 Redes Sociais</h2>
+<h2 align="center">🌐 Redes Sociais</h2>
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/jhonedev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
@@ -55,7 +55,7 @@
 
 <h2 align="left">🤝 Vamos nos conectar?</h2>
 
-<p align="left">
+<p align="center">
 Se você também é apaixonado por tecnologia, ficarei feliz em trocar ideias e experiências! Estou sempre em busca de aprender e explorar novos caminhos.<br><br>
 📧 <strong>Email:</strong> jonatan.borges2012@hotmail.com
 </p>
