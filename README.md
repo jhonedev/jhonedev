@@ -29,9 +29,18 @@
 <h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jhonedev&layout=compact&langs_count=6&theme=tokyonight&locale=pt-br" height="150" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jhonedev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonedev&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"
+    height="150"
+    alt="Top Languages"
+  />
 </div>
+
 
 ---
 
